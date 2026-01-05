@@ -42,3 +42,12 @@ Benchmark Gap: The institution is currently performing at 5.96, which is signifi
 Mastery vs. Communication: Faculty show high scores in Subject Knowledge, but significantly lower scores in the Explanation of Concepts, indicating a gap in pedagogical delivery rather than technical expertise.
 
 Practical Application: Metrics related to the practical application of theory consistently underperform, representing a critical area for curriculum improvement.
+
+
+📸 Dashboard Preview
+
+This screenshot shows a Power BI dashboard designed to present key insights in a clear and interactive manner. The dashboard combines multiple visualizations such as KPI cards, charts, and filters to help users quickly understand patterns, trends, and performance metrics.
+
+The report supports interactive exploration, allowing users to filter data dynamically and analyze results from different perspectives. It is built with a focus on data clarity, usability, and decision-making.
+<img width="1918" height="983" alt="task_03" src="https://github.com/user-attachments/assets/9201a611-0e4c-46a9-87b9-4d3bb486ec08" />
+
